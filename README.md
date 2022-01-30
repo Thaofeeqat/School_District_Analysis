@@ -36,3 +36,6 @@ From Challenge
 * # Math Grade from Module
 
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/math%20grade(M).png)
+* # Math grade from Challenge 
+
+![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/math%20grade(c).png)
