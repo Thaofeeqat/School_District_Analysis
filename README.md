@@ -39,3 +39,7 @@ From Challenge
 * # Math grade from Challenge 
 
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/math%20grade(c).png)
+
+* # School Spending from Module
+
+![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/school_spending(M).png)
