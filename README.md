@@ -15,3 +15,5 @@ Below is a picture from the module.
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School%20Summary%20(M).png)
 Picture from the Challenge
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School%20summary%20(c).png)
+
+* 
