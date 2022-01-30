@@ -59,3 +59,7 @@ From Challenge
 * # School tpye form Module
 
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School_type(M).png)
+
+* # School Tpye from Challenge 
+
+![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School_Type(c).png)
