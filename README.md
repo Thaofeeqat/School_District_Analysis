@@ -25,6 +25,10 @@ From Challenge
 ![image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/Top%20and%20bottom%205%20(C).png)
 
 
-* # Reading Grades
+* # Reading Grades from module
 
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/Reading%20grade(M).png)
+
+* # Reading Grades from challenge 
+
+![image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/Reading%20grade(C).png)
