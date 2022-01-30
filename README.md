@@ -52,3 +52,7 @@ From Challenge
 * # School size from Module
 
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/school%20size(m).png)
+
+* # School size form Challenge 
+
+![image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School%20size(c).png)
