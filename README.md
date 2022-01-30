@@ -32,3 +32,7 @@ From Challenge
 * # Reading Grades from challenge 
 
 ![image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/Reading%20grade(C).png)
+
+* # Math Grade from Module
+
+![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/math%20grade(M).png)
