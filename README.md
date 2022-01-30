@@ -16,5 +16,10 @@ Below is a picture from the module.
 Picture from the Challenge
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School%20summary%20(c).png)
 
-* Here is an image below showing the first Top 5 and bottom of the Schools performance
+* Here is an image below showing the first Top 5 and bottom of the Schools performance from the module
+
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/Top%20and%20bottom%205%20(M).png)
+
+From Challenge 
+
+![image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/Top%20and%20bottom%205%20(C).png)
