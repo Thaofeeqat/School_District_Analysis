@@ -56,3 +56,6 @@ From Challenge
 * # School size form Challenge 
 
 ![image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School%20size(c).png)
+* # School tpye form Module
+
+![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School_type(M).png)
