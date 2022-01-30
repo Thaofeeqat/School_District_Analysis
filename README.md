@@ -8,3 +8,8 @@ Below are the results from both the module and the challenge analysis
 The district summary did not affect the analysis result.
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/District%20Summary(M).png) From Module. 
 ![image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/District%20Summary(C).png) From Challenge.
+
+* How is  the school summary affected?
+According to the analysis the school summary does not have any significant efffect.
+Below is a picture from the module.
+![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/School%20Summary%20(M).png)
