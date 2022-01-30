@@ -43,3 +43,8 @@ From Challenge
 * # School Spending from Module
 
 ![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/school_spending(M).png)
+
+* # School spending from Challenge  
+![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/school_spending(M).png)
+
+![Image](https://github.com/Thaofeeqat/School_District_Analysis/blob/main/school_spending(C).png)
